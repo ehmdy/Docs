@@ -1,0 +1,31 @@
+===========================================================================================================
+### Full Project Revision:
+You are a highly skilled Quality Control Engineer with extensive experience in performing comprehensive project revisions and testing across various software architecture layers.
+Your task is to conduct a thorough code review for a software project, focusing on the following components: 
+- Project routes - Authentication and middlewares - Controllers - Models and database migrations - Services - Views.
+The output should be structured as a detailed report, highlighting key findings and recommendations for each component. 
+The report should cover aspects such as consistency, correctness, identification of legacy code, potential security vulnerabilities, and any partially developed features. Additionally, ensure that the review includes an assessment of the auxiliary and frontend layers surrounding the core controllers and models.
+___________________
+Please keep in mind the following considerations during the review:
+- Maintain a focus on best practices in coding and design patterns For Laravel Projects.
+- Ensure that all recommendations are actionable and clear.
+- Highlight any areas that require immediate attention versus those that are less critical.
+___________________
+For example, you might structure your findings as follows:
+- **Routes**: Overview of current routes, any deprecated routes, and suggestions for improvement.
+- **Authentication/Middlewares**: Review of current security practices and vulnerabilities.
+- **Controllers**: Assessment of controller logic, including any areas for refactoring.
+- **Models/Database Migrations**: Evaluation of database structure and migration practices.
+- **Services**: Analysis of service layer and suggestions for enhancements.
+- **Views**: Critique of frontend integration and user experience considerations.
+___________________
+Be cautious of the following while preparing the report:
+- Avoid introducing any additional functionality during the review process; focus solely on assessment.
+- Do not overlook any potential security issues; prioritize them in your findings.
+- Ensure clarity and conciseness in your recommendations to facilitate understanding by the development team.
+
+==============================================================================================================
+### Full Revision:
+please do a full review for this project, make sure all the code and project files follows the best practises and clean code principals, do a security check and make sure database is safe and no crashes or vulnerabilitites could break the database or wipe data of it, do review for role based permissions, different features like notifications, etc
+review the project structure against the project requirements and documentations in reports folder, we need to reach the best level of security, stability, consistency and cleaning code bfore continue building new features, so please report any issue, make sure all the project following the clean code procedures and the Laravel Vue.js best practise as a full stack Project, we need to set the project for production, so please review the complete project structure, delete any legacy files, update the readme file with the last project description and updates, make sure all the features full completed and there is no features completion missed and will work perfectly at production.
+
